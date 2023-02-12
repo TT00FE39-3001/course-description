@@ -1,4 +1,10 @@
-# Schedule
+# Data Structures and Algorithms (sp23)
+
+## Description
+
+## Content
+
+## Schedule
 
 - 2023-01-30: [Lecture 1](https://github.com/TT00FE39-3001/lecture1)
 - 2023-01-30: [Lecture 2](https://github.com/TT00FE39-3001/lecture2)
