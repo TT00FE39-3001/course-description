@@ -14,10 +14,6 @@
 - 2023-03-27: Lecture 8
 - 2023-04-03: Exam
 
-## Description
-
-- ...
-
 ## Content
 
 ### Classification of Algorithm techniques
@@ -66,3 +62,15 @@
 - FIFO vs LIFO
 - Recursion vs Iteration
 - Logarithms vs Exponential
+
+## Description
+
+- ...
+
+## Learning Outcomes & Grading
+
+- ...
+
+## Course Mechanics
+
+- ...
