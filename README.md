@@ -2,8 +2,6 @@
 
 ## Description
 
-## Content
-
 ## Schedule
 
 - 2023-01-30: [Lecture 1](https://github.com/TT00FE39-3001/lecture1)
@@ -17,3 +15,53 @@
 - 2023-03-20: Review -- optional Session
 - 2023-03-27: Lecture 8
 - 2023-04-03: Exam
+
+## Content
+
+### Classification of Algorithm techniques
+
+- Brute Force
+  - Linear search
+  - Bubble sort
+  - Selection sort
+- Decrease and conquer
+  - Binary Search
+  - Insertion sort
+- Divide-and-Conquer
+  - `pow()`
+  - Quick Sort
+  - Merge Sort
+- Transform-and-Conquer
+- Greedy Technique
+- Dynamic Programming
+
+### Data Structures & ADT
+
+- Data Structures vs Abstract Data Types(ADT)
+- Arrays, Linked Lists
+- Queues, Stacks
+- Hash Tables
+- Binary Tree, Binary Search Tree
+- Graphs
+- And Heap
+
+### Analysis of Algorithm Efficiency
+
+- Big O Complexity
+- Average case vs worst case
+- Space vs Time
+- Little-O
+- Theta
+- Little Omega, Big Omega
+
+### Standard Template Library (STL)
+
+- Containers
+- Algorithms
+- Iterators
+
+### Misc
+
+- FIFO vs LIFO
+- Recursion vs Iteration
+- Logarithms vs Exponential
