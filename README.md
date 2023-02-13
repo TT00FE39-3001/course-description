@@ -1,7 +1,5 @@
 # Data Structures and Algorithms (sp23)
 
-## Description
-
 ## Schedule
 
 - 2023-01-30: [Lecture 1](https://github.com/TT00FE39-3001/lecture1)
@@ -15,6 +13,10 @@
 - 2023-03-20: Review -- optional Session
 - 2023-03-27: Lecture 8
 - 2023-04-03: Exam
+
+## Description
+
+- ...
 
 ## Content
 
@@ -37,7 +39,6 @@
 
 ### Data Structures & ADT
 
-- Data Structures vs Abstract Data Types(ADT)
 - Arrays, Linked Lists
 - Queues, Stacks
 - Hash Tables
