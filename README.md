@@ -16,7 +16,7 @@
 
 ## Content
 
-### Classification of Algorithm techniques
+### Algorithm Techniques/Classification
 
 - Brute Force
   - Linear search
@@ -26,33 +26,37 @@
   - Binary Search
   - Insertion sort
 - Divide-and-Conquer
-  - `pow()`
   - Quick Sort
   - Merge Sort
-- Dynamic Programming (DP)
-  - Overlapping Sub-problems
-  - Bottom Up (Tabulation) vs Top Down (Memoization)
-  - 0/1 Knapsack & the Staircase Problems
-- Greedy Technique
+- Dynamic Programming
+  - Bottom Up: Tabulation
+  - Top Down: Memoization
+  - 0/1 Knapsack & Staircase Problems
+- Greedy Method
 - Transform-and-Conquer (**If we have time**)
 
-### Data Structures & ADT
+### Data Structures & Abstract data types (ADT)
 
-- Arrays, Linked Lists
-- Queues, Stacks
-- Hash Tables
-- Binary Tree, Binary Search Tree
-- Heaps
-- Graphs
+- Data Structures (Physical)
+  - Arrays
+  - Linked Lists
+- ADT (Logical)
+  - Linear
+    - Queues
+    - Stacks
+    - Hash Tables (linear/non-linear)
+  - Non Linear
+    - Binary Tree
+    - Binary Search Tree
+    - Heaps
+    - Graphs
 
 ### Analysis of Algorithm Efficiency
 
 - Big O Complexity
 - Average case vs worst case
 - Space vs Time
-- Little-O
-- Theta
-- Little Omega, Big Omega
+- Little-O, Theta, Little Omega, Big Omega
 
 ### Standard Template Library (STL)
 
