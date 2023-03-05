@@ -16,7 +16,7 @@
 
 ## Content
 
-### Algorithm Techniques/Classification
+### Algorithms: Techniques/Classification
 
 - Brute Force
   - Linear search
@@ -31,7 +31,7 @@
 - Dynamic Programming
   - Bottom Up: Tabulation
   - Top Down: Memoization
-  - 0/1 Knapsack & Staircase Problems
+    - 0/1 Knapsack & Staircase Problems
 - Greedy Method
 - Transform-and-Conquer (**If we have time**)
 
